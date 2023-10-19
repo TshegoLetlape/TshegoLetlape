@@ -27,7 +27,6 @@ Now Playing 🎧
  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css) 
   
  ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack) 
- ![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff) 
  ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff) 
  ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint) 
  ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff) 
@@ -37,8 +36,8 @@ Now Playing 🎧
   
  ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff) 
  ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000) 
- ![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway) 
- ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff) 
+
+
   
  ## 𝗦𝘁𝗮𝘁𝘀 
   
@@ -78,6 +77,6 @@ Here are some ideas to get you started:
  <br/> 
  <div class="centered-image"> 
    <a> 
-     <img src="https://cdn.vox-cdn.com/thumbor/tqVtfPgOqXs1p_WDWTzF3kxZuuA=/0x0:1500x1000/1500x847/filters:focal(750x500:751x501):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24624554/236638_AI_music_musicians_covers_artists_HHerrera.gif" alt="Music Meets Tech"> 
+     <img src="https://cdn.vox-cdn.com/thumbor/tqVtfPgOqXs1p_WDWTzF3kxZuuA=/0x0:1500x1000/1500x847/filters:focal(750x500:751x501):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24624554/236638_AI_music_musicians_covers_artists_HHerrera.gif" length="50" alt="Music Meets Tech"> 
    </a> 
  </div>
