@@ -1,11 +1,7 @@
 ### Hi, I'm Tshego
 ### Now Playing 🎧
 
-<div align="center">
-  <a href="https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=10" alt="Spotify recently played"  />
-  </a>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2c9uurmim78xlfju8ad1mo8bq&cover_image=true&theme=novatorem&show_offline=true&background_color=080808&interchange=false&bar_color=ce1ad1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ###
 
