@@ -7,7 +7,7 @@
 
  <p align="center" style="color: #FF00FF;"> 
    🌱 I’m currently learning <strong>Full stack development from Melsoft</strong><br> 
-   💬 Ask me about <strong><code>C, C++, Python, Linux</code></strong><br> 
+   💬 Ask me about <strong><code>React, JavaScript, Bootsrap, Linux</code></strong><br> 
    📫 How to reach me <strong>tshegofatsoletlape03@gmail.com</strong> 
  </p>
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 
