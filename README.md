@@ -1,7 +1,7 @@
 ### Hi, I'm Tshego
 ### Now Playing 🎧 
   
- [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9) 
+ [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://spotify.link/wwmgwddK1Db) 
  <br/> 
  ---
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 
