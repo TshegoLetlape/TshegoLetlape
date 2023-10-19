@@ -6,7 +6,7 @@
    📫 How to reach me <strong>tshegofatsoletlape03@gmail.com</strong> | https://www.linkedin.com/in/tshegofatsoletlape/
   
  </p>
-Now Playing 🎧
+<strong>Now Playing 🎧</strong> 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2c9uurmim78xlfju8ad1mo8bq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=ce1ad1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
