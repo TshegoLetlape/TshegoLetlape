@@ -71,7 +71,7 @@ Here are some ideas to get you started:
   
  <!-- Social icons section --> 
   
-   <p align="center">z 
+   <p align="center">
    <a href="https://dev.to/bazileros"><img width="32px" alt="Dev.to" title="bazileros Dev.to" src="https://i.imgur.com/mVm29vK.png"></a> 
    &#8287;&#8287;&#8287;&#8287;&#8287; 
 
