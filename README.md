@@ -78,7 +78,7 @@ Here are some ideas to get you started:
   
  <br/> 
  <div class="centered-image"> 
-   <a href="https://github.com/bazileros"> 
-     <img src="https://th.bing.com/th/id/R.f1e734f9cade86fe737a9aa404ad5677?rik=QdksIkqekD8DOQ&pid=ImgRaw&r=0" alt="MasterHead"> 
+   <a> 
+     <img src="https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_600_2000/0/1651835064260?e=2147483647&v=beta&t=PD7NGwk2Vh3xOA9gxf8uUsLsAt-Bvak1Hm3ruoGSxuY" alt="MasterHead"> 
    </a> 
  </div>
