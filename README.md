@@ -8,7 +8,7 @@
 
  <p align="center" style="color: #FF00FF;"> 
    🌱 Creative <strong>Frontend Developer</strong> with a passion for crafting engaging and user-friendly web experiences.<br> 
-   ⚡ Fun fact, I have created over 20 playlists on Spotify.
+   ⚡ Fun fact: I have created over 20 playlists on Spotify.<br>
    💬 Ask me about <strong><code>HTML5, CSS, React.js, JavaScript, Bootstrap</code></strong><br> 
    📫 How to reach me <strong>tshegofatsoletlape03@gmail.com</strong> | https://www.linkedin.com/in/tshegofatsoletlape/
   
@@ -71,15 +71,10 @@ Here are some ideas to get you started:
   
  <!-- Social icons section --> 
   
-   <p align="center"><a href="https://twitter.com/_bluddd"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a> 
-   &#8287;&#8287;&#8287;&#8287;&#8287; 
-   <a href="https://discordapp.com/users/1085524219976233003" alt="Discord" title="eros_devs discord server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a> 
-   &#8287;&#8287;&#8287;&#8287;&#8287; 
+   <p align="center">z 
    <a href="https://dev.to/bazileros"><img width="32px" alt="Dev.to" title="bazileros Dev.to" src="https://i.imgur.com/mVm29vK.png"></a> 
    &#8287;&#8287;&#8287;&#8287;&#8287; 
-   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a> 
-   &#8287;&#8287;&#8287;&#8287;&#8287; 
-   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> 
+
  </p> 
   
  <br/> 
