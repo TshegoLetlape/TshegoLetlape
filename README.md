@@ -8,6 +8,7 @@
 
  <p align="center" style="color: #FF00FF;"> 
    🌱 Creative <strong>Frontend Developer</strong> with a passion for crafting engaging and user-friendly web experiences.<br> 
+   ⚡ Fun fact, I have created over 20 playlists on Spotify.
    💬 Ask me about <strong><code>HTML5, CSS, React.js, JavaScript, Bootstrap</code></strong><br> 
    📫 How to reach me <strong>tshegofatsoletlape03@gmail.com</strong> 
  </p>
