@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👨🏿‍💻 Additional Languages and Tools:
-angular arduino aws azure blender bootstrap c cplusplus css3 d3js django docker flask gcp git html5 jasmine javascript linux mongodb mssql mysql nextjs nginx nodejs oracle postgresql postman python qt react reactnative sqlite tailwind typescript vuejs
+
