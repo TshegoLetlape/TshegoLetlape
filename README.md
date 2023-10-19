@@ -1,18 +1,19 @@
 ### Hi, I'm Tshego
-### Now Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2c9uurmim78xlfju8ad1mo8bq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=ce1ad1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-###
-
-
- <p align="center" style="color: #FF00FF;"> 
+<p align="center" style="color: #FF00FF;"> 
    🌱 Creative <strong>Frontend Developer</strong> with a passion for crafting engaging and user-friendly web experiences.<br> 
    ⚡ Fun fact: I have created over 20 playlists on Spotify.<br>
    💬 Ask me about <strong><code>HTML5, CSS, React.js, JavaScript, Bootstrap</code></strong><br> 
    📫 How to reach me <strong>tshegofatsoletlape03@gmail.com</strong> | https://www.linkedin.com/in/tshegofatsoletlape/
   
  </p>
+Now Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2c9uurmim78xlfju8ad1mo8bq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=ce1ad1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+###
+
+
+ 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 
   
  ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) 
