@@ -24,8 +24,6 @@
  ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff) 
 
  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css) 
-
- ![WindiCSS](https://img.shields.io/badge/-WindiCSS-%23000000?style=flat-square&logo=tailwind-css&&logoColor=48B0F1) 
   
  ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack) 
  ![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff) 
