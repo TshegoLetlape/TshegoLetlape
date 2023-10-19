@@ -79,6 +79,6 @@ Here are some ideas to get you started:
  <br/> 
  <div class="centered-image"> 
    <a> 
-     <img src="https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_600_2000/0/1651835064260?e=2147483647&v=beta&t=PD7NGwk2Vh3xOA9gxf8uUsLsAt-Bvak1Hm3ruoGSxuY" alt="MasterHead"> 
+     <img src="https://cdn.vox-cdn.com/thumbor/tqVtfPgOqXs1p_WDWTzF3kxZuuA=/0x0:1500x1000/1500x847/filters:focal(750x500:751x501):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24624554/236638_AI_music_musicians_covers_artists_HHerrera.gif" alt="MasterHead"> 
    </a> 
  </div>
