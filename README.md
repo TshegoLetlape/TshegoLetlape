@@ -64,19 +64,11 @@ Here are some ideas to get you started:
    <!-- Typing SVG by bazileros - https://github.com/bazileros/readme-typing-svg --> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CE1AD1&random=false&width=435&lines=Passionate+Front-End+Developer+;1%2B+Years+of+Coding;Create+user-friendly+web+experiences;Proficient+in+modern+web+technologies" alt="Typing SVG" /></a>
  </p> 
-  
-  
- <!-- Social icons section --> 
-  
-   <p align="center">
-   <a href="https://dev.to/bazileros"><img width="32px" alt="Dev.to" title="bazileros Dev.to" src="https://i.imgur.com/mVm29vK.png"></a> 
-   &#8287;&#8287;&#8287;&#8287;&#8287; 
 
- </p> 
   
  <br/> 
  <div class="centered-image"> 
    <a> 
-     <img src="https://cdn.vox-cdn.com/thumbor/tqVtfPgOqXs1p_WDWTzF3kxZuuA=/0x0:1500x1000/1500x847/filters:focal(750x500:751x501):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24624554/236638_AI_music_musicians_covers_artists_HHerrera.gif" length="50" alt="Music Meets Tech"> 
+     <img src="https://cdn.vox-cdn.com/thumbor/tqVtfPgOqXs1p_WDWTzF3kxZuuA=/0x0:1500x1000/1500x847/filters:focal(750x500:751x501):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24624554/236638_AI_music_musicians_covers_artists_HHerrera.gif" alt="Music Meets Tech"> 
    </a> 
  </div>
