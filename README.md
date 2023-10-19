@@ -1,8 +1,13 @@
 ### Hi, I'm Tshego
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
-<br/>
+<div align="center">
+  <a href="https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=10" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 
 
  <p align="center" style="color: #FF00FF;"> 
