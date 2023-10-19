@@ -1,9 +1,9 @@
 ### Hi, I'm Tshego
-### Now Playing 🎧 
-  
- [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9) 
- <br/> 
- ---
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+<br/>
+
 
  <p align="center" style="color: #FF00FF;"> 
    🌱 I’m currently learning <strong>Full stack development from Melsoft</strong><br> 
